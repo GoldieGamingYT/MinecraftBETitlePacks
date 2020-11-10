@@ -21,6 +21,9 @@ wget http://download1488.mediafire.com/qllmecyg11ug/i7mfmr8ofatu9lf/MCBEtitles.m
 
 After downloading it via wget, you can use cp or mv to move it to Minecraft's working directory
 
+Old versions:
+<a href="https://github.com/GoldieGamingYT/MinecraftBETitlePacks/releases/">Releases</a>
+
 # Guide:
 If you have chosen to install the MCPack version of the pack:
 
