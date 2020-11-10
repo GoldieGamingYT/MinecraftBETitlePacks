@@ -1,0 +1,217 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "A pack to go back to the old Minecraft titles. Created by §eGoldieYT",
+      "name" : "Minecraft Title pack",
+      "uuid" : "16ae1611-0900-491f-b074-ff2df1b31a79",
+      "min_engine_version": [ 1,9,0 ],
+      "version" : [ 0, 0, 1 ]
+   },
+   "min_engine_version": [ 1,9,0 ],
+   "modules" : [
+      {
+         "description" : "A pack to go back to the old Minecraft titles. Created by §eGoldieYT, See my GitHub for license information.",
+         "type" : "resources",
+         "uuid" : "0d251bcf-622e-47a1-aaa8-451a65b7c5b1",
+         "version" : [ 0, 0, 1 ]
+      }
+   ],
+   "subpacks": [
+    {
+      "folder_name": "atv",
+      "name": "Apple TV",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "ch",
+      "name": "Chinese Logo",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "firetv",
+      "name":"Fire TV",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "console",
+      "name": "Console Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "nswitch",
+      "name": "[NEW]Nintendo Switch 3D",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "ps3",
+      "name": "PlayStation 3 Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "ps4",
+      "name": "PlayStation 4 Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "psvita",
+      "name": "PlayStation Vita Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "switch",
+      "name": "Nintendo Switch Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "wiiu",
+      "name": "Wii U Edition title logo",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "x360",
+      "name": "Xbox 360 Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "x1",
+      "name": "Xbox One Edition",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "pi",
+      "name": "Pi Edition title logo",
+      "memory_tier": 1
+      },
+
+   {
+      "folder_name": "dun",
+      "name": "Minecraft Dungeons Title (NEW!)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "earth",
+      "name": "Minecraft Earth Title (NEW!)",
+      "memory_tier": 1
+   },
+    {
+      "folder_name": "jindev",
+      "name": "First logo of Minecraft (0.31 20100131)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jalpha",
+      "name": "Java Edition Alpha (1.0.4)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jalpha1",
+      "name": "Temporary change in 1k in 24h celebrating 1000 sales in 24h (1.0.13_01)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jalpha2",
+      "name":"Change in title with two blocks lost (1.0.14)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jalpha3",
+      "name": "Logo fixed M (1.0.15)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jalpha4",
+      "name": "Smaller Minecraft logo (1.2.0)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jbeta",
+      "name": "Logo has been changed from cobblestone to a better one (1.4)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jedition",
+      "name": "Logo has been changed with Java Edition below (1.12.2)",
+      "memory_tier": 1
+      },
+   {
+      "folder_name": "jedition2",
+      "name": "Logo has been changed with no visible changes :( (1.16 20w21a)",
+      "memory_tier": 1
+    },
+     {
+      "folder_name": "pea2",
+      "name": "Minecraft Pocket Edition logo with lighter sub (0.1.0)",
+      "memory_tier": 1
+      },
+         {
+      "folder_name": "pea",
+      "name": "New PE logo (0.7.1)",
+      "memory_tier": 1
+      },
+        {
+      "folder_name": "vr",
+      "name": "Minecraft VR Edition",
+      "memory_tier": 1
+      },
+        {
+      "folder_name": "vr1",
+      "name": "Minecraft VR Edition (0.16.0)",
+      "memory_tier": 1
+      },
+        {
+      "folder_name": "win10",
+      "name": "Windows 10 Edition Beta",
+      "memory_tier": 1
+      },
+         {
+      "folder_name": "win10-1",
+      "name": "Windows 10 Edition removing Beta (1.0.0)",
+      "memory_tier": 1
+      },
+        {
+      "folder_name": "bedrock",
+      "name": "Minecraft Bedrock logo removing all subtitles (Default)",
+      "memory_tier": 1
+        },
+       {
+      "folder_name": "edu1",
+      "name": "Minecraft Education Edition logo",
+      "memory_tier": 1
+      },
+         {
+      "folder_name": "educh",
+      "name": "Rare Minecraft Edu title with Chinese Subtitles",
+      "memory_tier": 1
+      },
+      {
+       "folder_name": "unused",
+       "name": "Unused logo of Minecraft",
+       "memory_tier": 1
+      },
+      {
+      "folder_name": "aq",
+      "name": "Aquatic Update",
+      "memory_tier": 1
+      },
+     {
+      "folder_name": "n1",
+      "name": "Nether Update Logo 1",
+      "memory_tier": 1
+      },
+     {
+      "folder_name": "n2",
+      "name": "Nether Update Logo 2",
+      "memory_tier": 1
+      },
+     {
+      "folder_name": "village",
+      "name": "Village and Pillagers Update",
+      "memory_tier": 1
+      },
+      {
+      "folder_name": "textu",
+      "name": "Texture update",
+      "memory_tier": 1
+      }
+   ]
+}
