@@ -28,5 +28,7 @@ If you have chosen to install the ZIP version of the pack:
 # Support the project:
 In order to support the project, you can share the project link to others
 
+GCash: 09480441697
+
 You can edit the pack for personal use but never ever redistribute it on outside sources without my consent
 All of the logo and resources belongs to their respective owners
