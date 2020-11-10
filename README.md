@@ -6,7 +6,7 @@ All title.png resources belongs to their respective owners
 # Installation
 <a href="http://www.mediafire.com/file/i7mfmr8ofatu9lf/MCBEtitles.mcpack/file">Download now[MCPACK version]</a>
 
-<a href="http://www.mediafire.com/file/9krjwnh5whbcqvr/Minecrafttitlepacks.zip/file">Download now[ZIP version]</a>
+<a href="http://www.mediafire.com/file/g5j3jfrap3ucsnb/MCBEtitles.zip/file">Download now[ZIP version]</a>
 
 If you want to get the file using CLI, use the following command:
 
