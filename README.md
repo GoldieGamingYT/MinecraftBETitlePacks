@@ -3,6 +3,12 @@ A pack for custom Minecraft Titles
 This is a pack made for you to choose different title.png from various Minecraft versions
 All title.png resources belongs to their respective owners
 
+# Inclusion
+Different Minecraft Edition titles
+Different updates title
+Unused Minecraft logos
+Old Minecraft logos
+
 # Installation
 <a href="http://www.mediafire.com/file/i7mfmr8ofatu9lf/MCBEtitles.mcpack/file">Download now[MCPACK version]</a>
 
