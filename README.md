@@ -8,6 +8,13 @@ All title.png resources belongs to their respective owners
 
 <a href="http://www.mediafire.com/file/9krjwnh5whbcqvr/Minecrafttitlepacks.zip/file">Download now[ZIP version]</a>
 
+If you want to get the file using CLI, use the following command:
+
+wget http://download1488.mediafire.com/qllmecyg11ug/i7mfmr8ofatu9lf/MCBEtitles.mcpack
+(Although, this may be outdated)
+
+After downloading it via wget, you can use cp or mv to move it to Minecraft's working directory
+
 # Guide:
 If you have chosen to install the MCPack version of the pack:
 
