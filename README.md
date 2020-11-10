@@ -4,9 +4,9 @@ This is a pack made for you to choose different title.png from various Minecraft
 All title.png resources belongs to their respective owners
 
 # Installation
-<a href="">Download now[MCPACK version]</a>
+<a href="http://www.mediafire.com/file/i7mfmr8ofatu9lf/MCBEtitles.mcpack/file">Download now[MCPACK version]</a>
 
-<a href="">Download now[ZIP version]</a>
+<a href="http://www.mediafire.com/file/9krjwnh5whbcqvr/Minecrafttitlepacks.zip/file">Download now[ZIP version]</a>
 
 # Guide:
 If you have chosen to install the MCPack version of the pack:
@@ -24,6 +24,11 @@ If you have chosen to install the ZIP version of the pack:
  Installation is a bit similar although you have to extract the files to its working directory
  If you want hassle free installation, use mcpack instead.
 
+# IMPORTANT REMINDER
+The project is still in alpha and I will be updating this project
+There are some bugs tho and kindly report it
+The resource pack might not support hotswapping of titles as there are some bugs
+I'll be fixing that issue
 
 # Support the project:
 In order to support the project, you can share the project link to others
