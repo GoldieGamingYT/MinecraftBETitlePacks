@@ -10,9 +10,9 @@ Unused Minecraft logos
 Old Minecraft logos
 
 # Installation
-<a href="http://www.mediafire.com/file/i7mfmr8ofatu9lf/MCBEtitles.mcpack/file">Download now[MCPACK version]</a>
+<a href="https://rshrt.com/MCPackBetitlesswitch">Download now[MCPACK version]</a>
 
-<a href="http://www.mediafire.com/file/g5j3jfrap3ucsnb/MCBEtitles.zip/file">Download now[ZIP version]</a>
+<a href="https://rshrt.com/MCPackBetitlesswitchzip">Download now[ZIP version]</a>
 
 If you want to get the file using CLI, use the following command:
 
