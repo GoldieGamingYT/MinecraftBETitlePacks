@@ -10,6 +10,9 @@ Unused Minecraft logos
 Old Minecraft logos
 
 # Installation
+
+SKIP ALLL ADS AT ALL COST 
+
 <a href="https://rshrt.com/MCPackBetitlesswitch">Download now[MCPACK version]</a>
 
 <a href="https://rshrt.com/MCPackBetitlesswitchzip">Download now[ZIP version]</a>
